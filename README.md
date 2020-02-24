@@ -26,7 +26,7 @@ ElasticSearch - is a NoSQL database and distributed search and analytics engine 
 
 <b>Kibana</b> - a web interface that connects users wit the elasticSearchDatabase and enables visualization and search options for system operation users benefits open source data visualization you can create graphical representation with logs very easily. even beginners can execute powerful log searches easily
 
-ELK stack is getting quite popular nowadays with a very large open source community
+<b>"ELK"</b> is the acronym for three open source projects: Elasticsearch, Logstash, and Kibana.
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/SujitAnandSharma/springboot-logging/blob/master/LoggingWorkFlow.png"><img src="https://github.com/SujitAnandSharma/springboot-logging/blob/master/LoggingWorkFlow.png" alt="title" style="max-width:100%;"></a></p>
 
